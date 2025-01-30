@@ -1,0 +1,30 @@
+Exercise 1: Consider user has N eggs. Then display the no of eggs in gross (144 eggs make one gross) and 
+no of eggs in dozen (12 eggs make one dozen) and the no of eggs that is left out remaining. 
+The total no of eggs can be got as input through command line. The program should display
+how many gross, how many dozen, and how many left over eggs the user has.
+
+Exercise 2: Create a class called employee with the following data members
+1.	empName
+2.	empId
+3.	empAge
+4.	empdesgn
+5.	empLocation
+6.	empExpInYrs
+
+All these data members should be initialized using constructors. Use constructor overloading 
+and demonstrate by creating different employee objects with
+
+1.	Employee  name alone
+2.	Employee name and id
+3.	Employee name, id and age
+4.	Employee name, id and designation
+5.	Employee name, id, age and designation
+6.	Employee name, id, age and location
+7.	Employee name, id, age and experience
+8.	 Employee name, id, designation and experience
+9.	Employee name, id, designation, location and experience
+10.	Employee name, id, age, designation,  location and experience
+
+Exercise 3:
+1.	Create a new project in which create a package named org.animals. In that create various classes like Lion, Tiger, Deer, Monkey, Elephant and Giraffe. In each class create data members like color, weight,age etc. Create methods like isVegetarian, canClimb, sound etc
+2.	Create another project and in that create a package called zoo and create a class called DelhiZoo and create objects for the animals that are existing in zoo and print the characteristic of each animal.
