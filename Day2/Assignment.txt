@@ -1,0 +1,13 @@
+Exercise 1: In yesterday example,create a super class called Animal and make all the existing classes as the sub class for Animal class. Move the method isVegetarian and canClimb to the super class 
+and implement generically. Whenever necessary change the implementation of these methods in the respective subclasses.Display the characteristic of each animal.
+
+Exercise 2:Create a class called Shape3D with the following method signatures volume () and surfaceArea (). Then create subclasses like Cylinder, Sphere, and Cube etc and implement these methods.
+
+
+Exercise 3:Create a class called shape with the following methods
+1.	area
+2.	perimeter
+
+                    Overload the area and perimeter method to calculate for both square and rectangle.
+                    Create a main class and invoke the area method to calculate the area of the square and rectangle. Also invoke the perimeter method to calculate the perimeter of the square 
+and rectangle.
