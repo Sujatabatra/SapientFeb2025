@@ -1,0 +1,1 @@
+Hello I am demonstrating Char IO in files.
