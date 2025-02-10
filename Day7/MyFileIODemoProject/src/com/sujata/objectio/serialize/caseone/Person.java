@@ -1,4 +1,4 @@
-package com.sujata.objectio;
+package com.sujata.objectio.serialize.caseone;
 
 import java.io.Serializable;
 
